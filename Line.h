@@ -11,3 +11,4 @@ public:
 	void draw(Gdiplus::Graphics &) override;
 };
 
+// qiqiqiqiqiqiqiqiqiqiqiqifeng!!!!!!!
